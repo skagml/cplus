@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 using namespace std;
 
 int main() {
@@ -15,4 +15,4 @@ int main() {
 	cout << name << " 학생은 " << grade << "학년 " << schoolClass << "반입니다." << endl;
 
 	return 0;
-}
+}*/

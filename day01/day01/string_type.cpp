@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #include <string>
 using namespace std;
 
@@ -6,6 +6,7 @@ int main() {
 
 	string cart = "생수";  //string - 문자열 자료형
 	string cartList[] = { "커피", "생수", "계란" }; //문자열 배열
+	int i = 0 //C에서는 미리 선언함
 
 	cout << cart << endl; //생수
 
@@ -18,4 +19,4 @@ int main() {
 	}
 
 	return 0;
-}
+}*/
